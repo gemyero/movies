@@ -1,0 +1,62 @@
+[
+  {
+    "rank": 1,
+    "name": "The Shawshank Redemption",
+    "rate": 9.2,
+    "year": 1994
+  },
+  {
+    "rank": 2,
+    "name": "The Godfather",
+    "rate": 9.1,
+    "year": 1972
+  },
+  {
+    "rank": 3,
+    "name": "The Godfather: Part II",
+    "rate": 9,
+    "year": 1974
+  },
+  {
+    "rank": 4,
+    "name": "The Dark Knight",
+    "rate": 9,
+    "year": 2008
+  },
+  {
+    "rank": 5,
+    "name": "12 Angry Men",
+    "rate": 8.9,
+    "year": 1957
+  },
+  {
+    "rank": 6,
+    "name": "Schindler's List",
+    "rate": 8.9,
+    "year": 1993
+  },
+  {
+    "rank": 7,
+    "name": "The Lord of the Rings: The Return of the King",
+    "rate": 8.9,
+    "year": 2003
+  },
+  {
+    "rank": 8,
+    "name": "Pulp Fiction",
+    "rate": 8.8,
+    "year": 1994
+  },
+  {
+    "rank": 9,
+    "name": "The Good, the Bad and the Ugly",
+    "rate": 8.8,
+    "year": 1966
+  },
+  {
+    "rank": 10,
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "rate": 8.8,
+    "year": 2001
+  }
+]
